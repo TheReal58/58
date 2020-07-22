@@ -334,12 +334,12 @@ hr {
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-26 .tile-inner {
-    color: #ffffff;
-    background: #1d933a; }
-  .tile.tile-52 .tile-inner {
-    color: #ffffff;
-    background: #f36447; }
+  .tile.tile-29 .tile-inner {
+    color: #f9f6f2;
+    background: #a980bc; }
+  .tile.tile-58 .tile-inner {
+    color: #f9f6f2;
+    background: #1E90FF; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
